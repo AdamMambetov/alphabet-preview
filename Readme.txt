@@ -1,6 +1,5 @@
 The files in this folder are all the files you need to upload to your web server.
 
-
 The following will help explain what kinds of files these are.
 
 
